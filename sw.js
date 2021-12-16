@@ -7,6 +7,7 @@ const CACHE_NAME = 'turismo',
     './script.js',
     './img/logo.jpg',
     './img/favicon.png'
+    './img/'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
